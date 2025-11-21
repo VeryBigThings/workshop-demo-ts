@@ -327,7 +327,7 @@ npx prisma migrate deploy
 
 **Repositories:**
 - Original: https://github.com/gothinkster/node-express-realworld-example-app
-- VeryBigThings Fork: https://github.com/VeryBigThings/realworld-conduit-api
+- VeryBigThings Fork: https://github.com/VeryBigThings/workshop-demo-ts
 
 ## Workshop Integration
 
